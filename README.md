@@ -18,4 +18,5 @@ I'm a software engineer who is passionate about making open-source more accessib
 - Sharing updates on <a href="https://www.linkedin.com/in/dinesh-kumar-765440190/">LinkedIn</a> 💼
 - Get in touch via <a href="https://t.me/tokyo_noob">Telegram</a>
 
-[![Dinesh's github stats](https://github-readme-stats.vercel.app/api?username=dinesh-ysl&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/dinesh-ysl)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh-ysl&layout=compact)](https://github.com/dinesh-ysl) 
+
+[![Dinesh's github stats](https://github-readme-stats.vercel.app/api?username=dinesh-ysl&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/dinesh-ysl)
