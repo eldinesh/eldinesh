@@ -11,11 +11,22 @@ I'm a software engineer who is passionate about making open-source more accessib
 - 😄  Pronouns: He/him
 - 🎮  Fun fact: I love playing Games and I'm currently researching physics behind it!
 
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+    
+&nbsp; <br> [![Spotify](https://spotify-readme-xi.vercel.app/api/spotify)](https://open.spotify.com/user/31bdtomqcwhsuiio4uswcibuy5ty)
+   
+  </td>
+  <td width="50%">
+  
+<br><p align="center">Everything here is available under the [Unlicense](https://choosealicense.com/licenses/unlicense/)!<br><br>
+  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/TjlYad3A)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/i_dinesh_?label=Twitter&logo=Twitter&style=flat-square)
+  [![Visits](https://komarev.com/ghpvc/?username=dinesh-ysl&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/dinesh-ysl)
+</p>
+  </td>
+  </table>
 
-## How to reach me 📫: <img align="left" width="200" height="150" src="https://github.com/dinesh-ysl/dinesh-ysl/blob/master/080f909da46192c0db62b76330302b0c.gif?raw=true">
-- Thoughts in public on <a href="">Twitter</a> ✍🏾
-- Tinkering with interactions on <a href="https://t.me/tokyoofficial"> Telegram Channel</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/dinesh-kumar-765440190/">LinkedIn</a> 💼
-- Get in touch via <a href="https://t.me/tokyo_noob">Telegram</a>
-
-<p align="center"><img width="100" src="https://komarev.com/ghpvc/?username=dinesh-ysl&color=green&style=flat-square&label=Visitors" alt="dinesh-ysl"></p>
+[//]: <> (The `&nbsp;` is to have Aphelion take up more space)
+[//]: <> (Old Visits: https://badges.pufler.dev/visits/dinesh-ysl/dinesh-ysl?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
