@@ -20,4 +20,79 @@ const dinesh = {
 };
 ```
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-131-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-942%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 440 Contributions in the Year 2020
+ > 
+> 📦 16.1 MB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 56 Public Repositories
+ > 
+> 🔑 73 Private Repositories 
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌆 Daytime    45 commits     █████████████████░░░░░░░░   70.31% 
+🌃 Evening    3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.69% 
+🌙 Night      16 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       16 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Tuesday      28 commits     ███████████░░░░░░░░░░░░░░   43.75% 
+Wednesday    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.56% 
+Thursday     17 commits     ██████░░░░░░░░░░░░░░░░░░░   26.56% 
+Friday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.56% 
+Saturday     1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.56% 
+Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Shell** 
+
+```text
+Shell                    38 repos            ██████████░░░░░░░░░░░░░░░   40.86% 
+Makefile                 25 repos            ██████░░░░░░░░░░░░░░░░░░░   26.88% 
+C                        12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
+C++                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.6% 
+Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.53%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/dinesh-ysl/dinesh-ysl/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
