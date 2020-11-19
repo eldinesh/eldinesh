@@ -1,4 +1,4 @@
-<img align="left" width="150" height="150" alt="Dani Akash" src="https://raw.githubusercontent.com/DaniAkash/DaniAkash/master/assets/avatar.png"/>
+<img align="left" width="150" height="150" alt="Dinesh Kumar" src="https://raw.githubusercontent.com/dinesh-ysl/dinesh-ysl/master/assets/avatar.png"/>
 <h2>I'm <a href="https://github.com/dinesh-ysl">Dinesh Kumar</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 I'm a software engineer who is passionate about making open-source more accessible.
 
