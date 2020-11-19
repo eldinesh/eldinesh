@@ -1,4 +1,4 @@
-<img align="left" width="130" height="130" alt="Dani Akash" src="https://raw.githubusercontent.com/DaniAkash/DaniAkash/master/assets/avatar.png"/>
+<img align="left" width="160" height="160" alt="Dani Akash" src="https://raw.githubusercontent.com/DaniAkash/DaniAkash/master/assets/avatar.png"/>
 <h2> I'm Dinesh Kumar <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community, online & offline.
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
