@@ -19,6 +19,8 @@ const dinesh = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I love connecting with different people so if you want to say <b><a href="https://t.me/theropods">Hi</a></b>, I'll be happy to meet you more!😊</em>
+
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-713.7%20million%20lines%20of%20code-blue)
 
