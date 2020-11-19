@@ -1,6 +1,6 @@
-<img align="left" width="160" height="160" alt="Dani Akash" src="https://raw.githubusercontent.com/DaniAkash/DaniAkash/master/assets/avatar.png"/>
+<img align="left" width="150" height="150" alt="Dani Akash" src="https://raw.githubusercontent.com/DaniAkash/DaniAkash/master/assets/avatar.png"/>
 <h2> I'm Dinesh Kumar <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
-I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community, online & offline.
+I'm a software engineer who is passionate about making open-source more accessible.
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 [![Linkedin: anmol](https://img.shields.io/badge/-Dinesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinesh-kumar-765440190/)](https://www.linkedin.com/in/dinesh-kumar-765440190/)
