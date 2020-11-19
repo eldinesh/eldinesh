@@ -26,7 +26,7 @@ const dinesh = {
 
 **🐱 My Github Data** 
 
-> 🏆 444 Contributions in the Year 2020
+> 🏆 446 Contributions in the Year 2020
  > 
 > 📦 16.1 MB Used in Github's Storage 
  > 
