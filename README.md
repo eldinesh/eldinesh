@@ -36,9 +36,9 @@ This activity monitoring started on November 18, 2020.
  > 
 > 💼 Opted to Hire
  > 
-> 📜 57 Public Repositories
+> 📜 56 Public Repositories
  > 
-> 🔑 73 Private Repositories 
+> 🔑 74 Private Repositories 
 
 **I'm an Early 🐤** 
 
