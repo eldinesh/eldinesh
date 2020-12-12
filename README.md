@@ -26,11 +26,11 @@ This activity monitoring started on November 18, 2020.
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-713.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-713.5%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 465 Contributions in the Year 2020
+> 🏆 464 Contributions in the Year 2020
  > 
 > 📦 16.1 MB Used in Github's Storage 
  > 
@@ -38,7 +38,7 @@ This activity monitoring started on November 18, 2020.
  > 
 > 📜 56 Public Repositories
  > 
-> 🔑 75 Private Repositories 
+> 🔑 74 Private Repositories 
 
 **I'm an Early 🐤** 
 
