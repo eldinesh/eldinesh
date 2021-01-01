@@ -29,7 +29,7 @@ This activity monitoring started on November 18, 2020.
 
 **🐱 My Github Data** 
 
-> 🏆 466 Contributions in the Year 2020
+> 🏆 0 Contributions in the Year 2021
  > 
 > 📦 16.1 MB Used in Github's Storage 
  > 
