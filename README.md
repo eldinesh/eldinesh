@@ -20,7 +20,7 @@ const dinesh = {
 ```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I love connecting with different people so if you want to say <b><a href="https://t.me/theropods">Hi</a></b>, I'll be happy to meet you more!😊</em>
 ```
-This activity monitoring started on November 18, 2020.
+This activity monitoring started on November 18, 2020 using WakaTime. But after just a week WakaTime access nuked. So no more monitoring. will clear out this crap soon. 14/01/2021.
 ```
 
 
