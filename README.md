@@ -11,7 +11,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 ```javascript
 const dinesh = {
     pronouns: "He" | "Him",
-    code: ["Python", "Java", "C++"],
+    code: ["Python", "C++"],
     askMeAbout: ["machine learning", "ai", "iOS"],
     currentFocus: "AI & ML model classificaion",
     funFact: "There are two ways to write error-free programs; only the third one works"
