@@ -12,8 +12,8 @@ I'm a software engineer who is passionate about making open-source more accessib
 const dinesh = {
     pronouns: "He" | "Him",
     code: ["Python", "Java"],
-    askMeAbout: ["Designing", "ai", "iOS"],
-    currentFocus: "Design stunning visuals",
+    askMeAbout: ["User Interface and Experience", "Product Design", "ai"],
+    currentFocus: "Design stunning products",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
